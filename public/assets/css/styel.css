@@ -1,0 +1,14 @@
+.navbar {
+    background-color: rgb(138, 34, 34);
+  }
+  
+  .article-name {
+    font-size: 2rem;
+    color: rgb(138, 34, 34);
+    font-weight: bold;
+  }
+  
+  .article-name:hover {
+    color: #0c7cd5;
+    text-decoration: none;
+  }
